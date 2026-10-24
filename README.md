@@ -8,15 +8,15 @@
 📌 **Linguagens e Front-end**
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" />
-  <img src="https://shields.io" height="40" />
-  <img src="https://shields.io" height="40" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" />
 </div>
 
 <br>
 
 📌 **Back-end e Outros**
 <div>
-  <img src="https://shields.io" height="40" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
   <img src="https://shields.io" height="40" />
   <img src="https://shields.io" height="40" />
 </div>
