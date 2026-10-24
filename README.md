@@ -17,7 +17,7 @@
 📌 **Back-end e Outros**
 <div>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
-  <img src="https://shields.io" height="40" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" />
   <img src="https://shields.io" height="40" />
 </div>
 
