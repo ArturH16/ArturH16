@@ -7,7 +7,8 @@
 
 📌 **Linguagens e Front-end**
 <div>
-  <img src="https://shields.io" height="40" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+" height="40" />
   <img src="https://shields.io" height="40" />
   <img src="https://shields.io" height="40" />
 </div>
